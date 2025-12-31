@@ -53,11 +53,7 @@
 
 4.  **Enjoy!**
     Open your browser to the local URL (usually `http://localhost:5173`).
-
-## 🔮 Future Improvements
-- [ ] **Harvester Script**: Automate the Seed List expansion.
-- [ ] **User Accounts**: Save taste profiles.
-- [ ] **Streaming Links**: direct links to Netflix/Prime.
+    
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

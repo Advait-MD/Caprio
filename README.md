@@ -24,7 +24,7 @@
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/caprio.git
+    git clone https://github.com/Advait-MD/caprio.git
     cd caprio
     ```
 

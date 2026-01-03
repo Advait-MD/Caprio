@@ -10,7 +10,7 @@ app.use(express.json());
 // Routes
 app.use('/api/movie', require('./routes/movie'));
 app.use('/api/taste', require('./routes/taste'));
-app.use('/api/compare', require('./routes/compare'));
+app.use('/api/analyze', require('./routes/analyze'));
 app.use('/api/play', require('./routes/play'));
 app.use('/api/recommend', require('./routes/recommend'));
 
